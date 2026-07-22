@@ -1,15 +1,14 @@
 Metadata-Version: 2.4
 Name: arabpy
-Version: 1.0.0
+Version: 1.0.1
 Summary: Write Python completely in Arabic
 Home-page: https://github.com/arabpy/arabpy
 Author: ArabPy Contributors
 Author-email: ArabPy Contributors <info@arabpy.org>
 License: MIT
 Project-URL: Homepage, https://github.com/arabpy/arabpy
-Project-URL: Documentation, https://arabpy.readthedocs.io/
+Project-URL: Documentation, https://arabpy-docs.vercel.app/
 Project-URL: Repository, https://github.com/arabpy/arabpy
-Project-URL: Bug Tracker, https://github.com/arabpy/arabpy/issues
 Keywords: python,arabic,translation,localization,i18n,l10n
 Classifier: Development Status :: 4 - Beta
 Classifier: Intended Audience :: Developers
@@ -408,5 +407,5 @@ Built with the Python standard library's tokenizer module for accurate parsing a
 
 ## Support
 
-- GitHub Issues: https://github.com/arabpy/arabpy/issues
-- Documentation: https://arabpy.readthedocs.io/
+- GitHub Issues: https://github.com/arabpy/arabpy/
+- Documentation: https://arabpy-docs.vercel.app/

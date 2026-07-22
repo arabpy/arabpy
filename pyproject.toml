@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "arabpy"
-version = "1.0.0"
+version = "1.0.1"
 description = "Write Python completely in Arabic"
 readme = "README.md"
 requires-python = ">=3.8"
@@ -30,6 +30,5 @@ classifiers = [
 
 [project.urls]
 Homepage = "https://github.com/arabpy/arabpy"
-Documentation = "https://arabpy.readthedocs.io/"
+Documentation = "https://arabpy-docs.vercel.app/"
 Repository = "https://github.com/arabpy/arabpy"
-"Bug Tracker" = "https://github.com/arabpy/arabpy/issues"

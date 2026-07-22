@@ -375,5 +375,5 @@ Built with the Python standard library's tokenizer module for accurate parsing a
 
 ## Support
 
-- GitHub Issues: https://github.com/arabpy/arabpy/issues
-- Documentation: https://arabpy.readthedocs.io/
+- GitHub Issues: https://github.com/arabpy/arabpy/
+- Documentation: https://arabpy-docs.vercel.app/
