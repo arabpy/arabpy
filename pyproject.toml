@@ -1,0 +1,35 @@
+[build-system]
+requires = ["setuptools>=45", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "arabpy"
+version = "1.0.0"
+description = "Write Python completely in Arabic"
+readme = "README.md"
+requires-python = ">=3.8"
+license = {text = "MIT"}
+authors = [
+    {name = "ArabPy Contributors", email = "info@arabpy.org"}
+]
+keywords = ["python", "arabic", "translation", "localization", "i18n", "l10n"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+    "Topic :: Software Development :: Internationalization",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Natural Language :: Arabic",
+]
+
+[project.urls]
+Homepage = "https://github.com/arabpy/arabpy"
+Documentation = "https://arabpy.readthedocs.io/"
+Repository = "https://github.com/arabpy/arabpy"
+"Bug Tracker" = "https://github.com/arabpy/arabpy/issues"

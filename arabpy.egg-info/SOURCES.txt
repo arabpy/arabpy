@@ -1,0 +1,17 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+arabpy/__init__.py
+arabpy/dictionary.py
+arabpy/dictionary_expanded.py
+arabpy/runner.py
+arabpy/translator.py
+arabpy.egg-info/PKG-INFO
+arabpy.egg-info/SOURCES.txt
+arabpy.egg-info/dependency_links.txt
+arabpy.egg-info/top_level.txt
+tests/__init__.py
+tests/test_arabic_code_runner.py
+tests/test_arabic_code_runner_simple.py
+tests/test_translator.py
